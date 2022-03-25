@@ -65,6 +65,11 @@ h2 {
   margin-right: 0;
 }
 
+.header.header_secondary {
+  background-color: var(--color-text-primary);
+  position: initial;
+}
+
 /*BUTTONS*/
 .button {
   height: 48px;
